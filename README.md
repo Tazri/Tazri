@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tazri
 - 👀 I’m interested in Programming
-- 🌱 I’m currently Node.js 
+- 🌱 I’m currently Data Structure and Algorithm
 
 <!---
 Tazri/Tazri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
